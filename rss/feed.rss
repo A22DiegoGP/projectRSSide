@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>Ide's descriptions</description>
+        <link>https://a22diegogp.github.io/projectRSSide/</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a22diegogp@iessanclemente.net</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>http://example.org/test.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Some text.</description>
+        </item>
+    </channel>
+</rss>
