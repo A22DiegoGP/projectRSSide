@@ -8,9 +8,21 @@
         <managingEditor>a22diegogp@iessanclemente.net</managingEditor>
         <item>
             <title>Eclipse</title>
-            <link>http://example.org/test.html</link>
-            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-            <description>Some text.</description>
+            <link></link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks for Eclipse</description>
+        </item>
+        <item>
+            <title>Netbeans</title>
+            <link></link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks for Netbeans</description>
+        </item>
+        <item>
+            <title>Vs code</title>
+            <link></link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks for Vs code</description>
         </item>
     </channel>
 </rss>
